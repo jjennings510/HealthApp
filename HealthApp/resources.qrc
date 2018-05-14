@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>HealthAppLogo.png</file>
+        <file>users.sqlite</file>
+    </qresource>
+</RCC>
